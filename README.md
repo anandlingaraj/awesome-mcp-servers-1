@@ -460,6 +460,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CAKM](https://github.com/sanyambassi/thales-cdsp-cakm-mcp-server) - MCP server for Thales CDSP CAKM integration, enabling secure key management, cryptographic operations, and compliance monitoring through AI assistants for Ms SQL and Oracle Databases.
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CRDP](https://github.com/sanyambassi/thales-cdsp-crdp-mcp-server) - MCP server for Thales CipherTrust Manager RestFul Data Protection service.
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CSM](https://github.com/sanyambassi/thales-cdsp-csm-mcp-server) - MCP server for Thales CipherTrust Secrets Management
+- <img src="https://avatars.githubusercontent.com/u/189076028?s=200" height="14"/> [Cybrium](https://github.com/cybrium-ai/mcp-server) - AI security + AI governance + AI inventory + code security. 10 tools across five Cybrium CLIs: cyscan (SAST/SCA/secrets/IaC/K8s, 1,815 rules / 75+ languages), cyweb (web vulnerability scanner), cyprobe (network discovery), cyradar (discover self-hosted AI inference servers — Ollama, vLLM, TGI, LocalAI, Triton, LM Studio, llama.cpp), and cymail (email security: SPF/DKIM/DMARC/MTA-STS/BIMI). For shadow-AI audits, AI BOM / AIBOM generation, prompt-injection-aware code review.
 
 <br />
 
